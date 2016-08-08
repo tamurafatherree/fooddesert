@@ -88,10 +88,14 @@
 		}); 
 
     	// Add Search Functionality
-		map.addControl(new mapboxgl.Geocoder());	
+		map.addControl(new mapboxgl.Geocoder());
 
 		// Add 'Current Location' Functionality
-		map.addControl(new mapboxgl.Geolocate());		
+		map.addControl(new mapboxgl.Geolocate());
+
+		//map.Geolocation.getCurrentPosition()
+		//loc = map.getCenter();
+
 
 		// BELOW is the wrong syntax, need to figure out how to get geolocated coordinates!!!
 		// var newctr = new mapboxgl.getCenter();
