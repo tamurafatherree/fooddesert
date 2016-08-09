@@ -24,13 +24,11 @@ Check out the `master` branch of this project and make your changes.
 
 ### Step 3: Generate the site with Jekyll
 
-To generate the site, run this command…
+Run this command…
 
 ```
-jekyll serve
+jekyll build
 ```
-
-This will also start the jekyll server so you can view the site on your local computer.
 
 ### Step 4: Publish
 
