@@ -1,5 +1,43 @@
 
-# Food Desert
+# Food Oasis
 
-This is a website with list of resources about food deserts and health…
+This is a website with list of resources about food deserts and health. You can view the site here…
 http://tamurafatherree.github.io/fooddesert
+
+# I want to work on the website
+
+The site is published with [GitHub Pages](https://pages.github.com), and the website files are generated with [Jekyll](http://jekyllrb.com).
+
+## Step 1: Install Jekyll
+
+To use Jekyll, you’ll need [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+
+Once you have Ruby installed, you can install Jekyll from your terminal with this command…
+
+```
+gem install jekyll
+```
+
+## Step 2: Make your changes
+
+Check out the `master` branch of this project and make your changes.
+
+## Step 3: Generate the website with Jekyll
+
+To generate the site, run this command…
+
+```
+jekyll serve
+```
+
+This will also start the jekyll server so you can view the site on your local computer.
+
+## Step 4: Publish
+
+To publish your changes…
+
+1. Copy the `_site` folder to a temporary location.
+2. Switch to the `gh-pages` branch.
+3. Overwrite the files in your project with the contents of the copied `_site` folder.
+
+Now push your changes to the `gh-pages` branch. And you’re done!
