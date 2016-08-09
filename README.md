@@ -10,7 +10,7 @@ The site is published with [GitHub Pages](https://pages.github.com), and the web
 
 ## Step 1: Install Jekyll
 
-To use Jekyll, you’ll need [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+To use Jekyll, you’ll need [Ruby](https://www.ruby-lang.org/en/documentation/installation/).
 
 Once you have Ruby installed, you can install Jekyll from your terminal with this command…
 
@@ -34,10 +34,12 @@ This will also start the jekyll server so you can view the site on your local co
 
 ## Step 4: Publish
 
+When you generate the site, Jekyll creates a folder called `_site` within your project folder.
+
 To publish your changes…
 
-1. Copy the `_site` folder to a temporary location.
+1. Move the `_site` folder out of your project to a temporary location.
 2. Switch to the `gh-pages` branch.
-3. Overwrite the files in your project with the contents of the copied `_site` folder.
+3. Overwrite the files in your project with the contents of the `_site` folder.
 
 Now push your changes to the `gh-pages` branch. And you’re done!
