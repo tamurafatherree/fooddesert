@@ -4,11 +4,11 @@
 This is a website with list of resources about food deserts and health. You can view the site here…
 http://tamurafatherree.github.io/fooddesert
 
-# I want to work on the website
+## How to make changes to the site
 
 The site is published with [GitHub Pages](https://pages.github.com), and the website files are generated with [Jekyll](http://jekyllrb.com).
 
-## Step 1: Install Jekyll
+### Step 1: Install Jekyll
 
 To use Jekyll, you’ll need [Ruby](https://www.ruby-lang.org/en/documentation/installation/).
 
@@ -18,11 +18,11 @@ Once you have Ruby installed, you can install Jekyll from your terminal with thi
 gem install jekyll
 ```
 
-## Step 2: Make your changes
+### Step 2: Make your changes
 
 Check out the `master` branch of this project and make your changes.
 
-## Step 3: Generate the website with Jekyll
+### Step 3: Generate the site with Jekyll
 
 To generate the site, run this command…
 
@@ -32,7 +32,7 @@ jekyll serve
 
 This will also start the jekyll server so you can view the site on your local computer.
 
-## Step 4: Publish
+### Step 4: Publish
 
 When you generate the site, Jekyll creates a folder called `_site` within your project folder.
 
