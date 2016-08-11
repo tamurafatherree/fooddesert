@@ -22,7 +22,9 @@ gem install jekyll
 
 Check out the `master` branch of this project and make your changes.
 
-### Step 3: Generate the site with Jekyll
+### Step 3: Commit your changes to `master`
+
+### Step 4: Generate the site with Jekyll
 
 Run this command…
 
@@ -30,7 +32,7 @@ Run this command…
 jekyll build
 ```
 
-### Step 4: Publish
+### Step 5: Publish
 
 When you generate the site, Jekyll creates a folder called `_site` within your project folder.
 
