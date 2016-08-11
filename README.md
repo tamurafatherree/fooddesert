@@ -3,4 +3,4 @@
 
 This project has moved to…
 
-https://github.com/foodoasisla
+https://github.com/foodoasisla/site
